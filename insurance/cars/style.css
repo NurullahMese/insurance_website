@@ -84,14 +84,12 @@ p{
 margin-top:0;
 }
 section select{
+  position: right;
+  width: 70%;
+  padding: 12px;
+  float: right;
+  
+ 
 
-  padding: 50px ;
-  max-width: 300px;
-  margin: 30px auto;
-  background:white;
-  background:rgba(255,255,255,0.9);
-  backdrop-filter:blur(10px);
-  box-shadow:0px 2px 10px rgba(0,0,0,0.3);
-  border-radius:5px;
-  transition:transform 0.2s ease-in-out;
+
 }
